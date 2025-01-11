@@ -1,9 +1,4 @@
-# Breast-Cancer-sas
-
-
----
-
-**Title:** Breast Cancer Survival Analysis
+# Breast Cancer Survival Analysis
 
 **Description:**
 This project explores survival analysis for breast cancer patients based on the METABRIC dataset, which contains clinical profiles of 2,509 patients diagnosed with breast cancer. The primary goal is to determine the factors that significantly influence patient survival. 
